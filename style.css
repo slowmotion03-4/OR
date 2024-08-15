@@ -1,0 +1,26 @@
+body  {
+    color:blanchedalmond;
+    background: rgb(173, 115, 228); 
+    margin: 0px;
+    font-style: normal;
+}
+
+header {
+ border-bottom: solid 2px blanchedalmond;
+ padding: 20px ;
+ font-size: 26;
+ color: blanchedalmond;
+}
+
+section{
+ background: blueviolet;
+ padding-bottom: 50px;
+ padding-top: 50;
+ display: flex;
+ justify-content:center;
+}
+
+.chamada-texto{
+margin-right: 5%;
+
+}
